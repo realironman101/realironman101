@@ -69,7 +69,7 @@ I am 3rd year Computer Science student currently doing major in Artificial Intel
 
  <br/>
 
-<img src="https://activity-graph.herokuapp.com/graph?username=realironman101&theme=react-dark"/>
+<img src="https://activity-graph.herokuapp.com/graph?username=realironman101&custom_title=%20Anand's%20Contributions%20Graph&theme=react-dark"/>
 
 
 
