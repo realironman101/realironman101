@@ -7,7 +7,7 @@ I am 3rd year Computer Science student currently doing major in Artificial Intel
 <img src="https://img.shields.io/badge/Google_Play-414141?style=for-the-badge&logo=google-play&logoColor=white"/>
 <a/>
   
-  <a href="www.linkedin.com/in/itsanandsingh">
+  <a href="https://www.linkedin.com/in/anand-singh-931a92163/">
 <img src="https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white"/>
 <a/>
 
