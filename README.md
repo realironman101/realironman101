@@ -1,6 +1,6 @@
 ## Hi there 👋
 
-🔥<br/>
+🔥 ![](https://komarev.com/ghpvc/?username=realironman101&color=blue)<br/>
 I am 3rd year Computer Science student currently doing major in Artificial Intelligence and Machine Learning, I have 2 years of experience in Flutter development    as well and recently I have developed and launched my own photo editing app on playstore. 
 
   <a href="https://play.google.com/store/apps/details?id=com.ripplapps.afterclicks">
